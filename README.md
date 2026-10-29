@@ -1,0 +1,2 @@
+# Klasifikasi-Data-Customer-Churn-Telco-dengan-Naive-Bayes-dan-SVM
+Membandingkan Naive Bayes dan SVM dalam memprediksi customer churn pada dataset Telco Customer Churn, melalui preprocessing data, pembagian data training dan testing 70:30, serta optimasi SVM dengan Grid Search dan cross validation, hasilnya SVM unggul pada akurasi dan stabilitas, Naive Bayes lebih baik mendeteksi churn dengan recall lebih tinggi
